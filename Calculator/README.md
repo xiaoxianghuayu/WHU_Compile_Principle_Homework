@@ -3,10 +3,11 @@
 **文件**: 
 * calculator.c: 完整代码 
 * cal.c: 用来测试和debug的完整代码, 格式比较混乱
-* test.txt: 输入文件
-* description.md 文法定义(或者是普通的实现思路说明)
+* calculator.exe: 可执行程序, 请使用命令行
+* 测试样例.txt: 输入文件
+* 文法定义.pdf 文法定义(或者是普通的实现思路说明)
 
-**用法**: `calculator.exe test.txt`
+**用法**: `calculator.exe 测试样例.txt`
 
 **个人补充规定**: 
 * 空格会被忽略
